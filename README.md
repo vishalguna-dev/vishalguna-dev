@@ -1,112 +1,58 @@
 # Hi, I'm Vishal Guna 👋
 
-Backend Developer with 2.5+ years of experience building enterprise applications, REST APIs, and backend systems.
-
-Currently transitioning from ASP.NET MVC to Java/Spring Boot with a strong focus on:
-
-* Scalable Backend Systems
-* REST API Development
-* Microservices
-* Clean Architecture
-* Production Debugging
-* System Design
+**Backend Developer** with 2.5+ years of experience building enterprise-grade applications and RESTful services. I am currently bridging the gap between **ASP.NET** and the **Java/Spring Boot** ecosystem to build high-performance, scalable systems.
 
 ---
 
-## 🚀 About Me
+### 🚀 Professional Snapshot
 
-* 💼 Backend Developer with enterprise project experience
-* 🔧 Worked on Insurance domain applications and high-priority modules
-* 🌍 Delivered APIs for international client projects
-* 🧠 Interested in Java Backend Engineering & Product Companies
-* 📚 Currently learning Spring Boot, Microservices, and Advanced Backend Concepts
-* ⚡ Strong interest in debugging, backend architecture, and scalable systems
+* **Current Focus:** Transitioning to Java Backend Engineering with a deep dive into Spring Boot & Microservices.
+* **Domain Expertise:** Experienced in Insurance and FinTech backend modules for international clients.
+* **Core Philosophy:** Writing clean, testable code and optimizing system performance through efficient design patterns.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-* Java
-* Spring Boot
-* ASP.NET MVC
-* ASP.NET Core Web API
-* REST APIs
-
-### Database
-
-* MySQL
-* SQL Server
-
-### Tools & Concepts
-
-* Git & GitHub
-* Postman
-* Layered Architecture
-* OOP
-* DSA
-* System Design Basics
-
-### Currently Exploring
-
-* Microservices
-* Docker
-* JWT Authentication
-* Spring Security
-* Redis
-* Kafka
+* **Backend:** Java (Spring Boot, Hibernate, Spring Data JPA), C# (ASP.NET Core, Web API)
+* **Databases:** MySQL, Microsoft SQL Server
+* **Concepts:** RESTful APIs, Microservices, Clean Architecture, OOP, System Design, JWT
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-### 🔗 URL Shortener (Spring Boot)
+#### 🔗 https://zapier.com/blog/best-url-shorteners/(https://github.com/vishalguna-dev)
+*Backend service engineered to generate and manage shortened URLs using a layered architecture.*
+* **Tech:** Java, Spring Boot, Spring Data JPA, MySQL.
+* **Highlights:** Implemented custom base-62 encoding for unique ID generation and optimized redirection handling.
 
-Backend service to generate short URLs using REST APIs and layered architecture.
-
-**Tech Used:** Java, Spring Boot, MySQL
-
-Features:
-
-* URL shortening
-* Redirection handling
-* Database integration
-* RESTful endpoints
+#### 📊 [Data Processing REST API](https://github.com/vishalguna-dev)
+*Dynamic reporting tool that transforms JSON input into structured Excel reports.*
+* **Tech:** ASP.NET Core Web API, SQL Server.
+* **Highlights:** Automated manual reporting workflows, reducing administrative processing time by automating file generation logic.
 
 ---
 
-### 📊 Excel-Based Data Processing REST API
-
-REST API that processes JSON input and generates Excel reports dynamically.
-
-**Tech Used:** ASP.NET Core Web API, SQL Server
-
-Features:
-
-* Automated Excel generation
-* File handling
-* Logging
-* JSON data processing
-* Reduced manual reporting effort
+### 📈 Current Learning & Goals
+* **Certifications:** Preparing for Oracle Certified Professional (OCP) Java SE 17/21.
+* **Advanced Topics:** Mastering Spring Security, Redis Caching, and Kafka for event-driven systems.
+* **Engineering:** Refining DSA and System Design skills for product-based company roles.
 
 ---
 
-## 📈 Current Goals
+### 📫 Let's Connect
 
-* Strengthen Java + Spring Boot expertise
-* Build production-level backend projects
-* Learn Microservices architecture
-* Improve DSA and problem-solving
-* Transition into product-based companies
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-guna-647001211/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:45vishalguna@gmail.com)
 
 ---
-
-## 📫 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/vishal-guna-647001211/
-* Email: [45vishalguna@gmail.com](mailto:45vishalguna@gmail.com)
-
----
-
-⭐ Always learning, building, and improving backend systems.
+*“Always learning, building, and improving one commit at a time.”*

@@ -46,13 +46,20 @@ REST API that processes JSON input and generates Excel reports dynamically.
 
 ---
 
-### 📫 Connect With Me
+---
+
+## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vishal-guna-647001211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-guna" height="30" width="40" /></a>
-<a href="mailto:45vishalguna@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="45vishalguna" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vishal-guna-647001211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:45vishalguna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
+---
 ---
 
 *⭐ Always learning, building, and improving one commit at a time.*

@@ -104,7 +104,7 @@ Features:
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Add Your LinkedIn]
+* LinkedIn: https://www.linkedin.com/in/vishal-guna-647001211/
 * Email: [45vishalguna@gmail.com](mailto:45vishalguna@gmail.com)
 
 ---

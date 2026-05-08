@@ -30,7 +30,7 @@
 
 ### 📌 Featured Projects
 
-#### 🔗 https://zapier.com/blog/best-url-shorteners/(https://github.com/vishalguna-dev)
+#### 📊 [URL Shortener](https://github.com/vishalguna-dev)
 *Backend service engineered to generate and manage shortened URLs using a layered architecture.*
 * **Tech:** Java, Spring Boot, Spring Data JPA, MySQL.
 * **Highlights:** Implemented custom base-62 encoding for unique ID generation and optimized redirection handling.
